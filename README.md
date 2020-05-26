@@ -1,2 +1,2 @@
-# pratice1
-pratice
+npm install
+npm run dev
